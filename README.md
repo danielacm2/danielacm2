@@ -1,9 +1,10 @@
 <h1 align="center"><b>Hi , I'm Daniela Camargo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <p>
 I'm a Systems Engineering student passionate about software development and building useful, visually appealing, and user-friendly applications.
 </p>
+
 
 - 🎓 I'm currently studying Systems Engineering
 - 💻 I'm learning and exploring Frontend and Backend Development, especially HTML, CSS, JavaScript, and Next.js.
@@ -30,9 +31,3 @@ I'm a Systems Engineering student passionate about software development and buil
 
 ##### 📚 Academic Experience
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=danielacm2&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/danielacm2)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=danielacm2&theme=material-palenight)](https://github.com/danielacm2)
-</div>
